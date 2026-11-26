@@ -2,4 +2,4 @@
 
 Portfolio site for Shraddha Bhusal — BSc Computer Science student at the University of Dundee, aspiring cybersecurity professional.
 
-Live site: https://lsixkhe.github.io/shraddha-bhusal/ 
+Live site: https://lsixkhe.github.io/lsixkhe/portfolio-website/ 
